@@ -36,5 +36,13 @@ All about Sequel
 ## USE _databaseName_:
 - Allows you to edit an existing database
 
-## CREATE TABLE _tableName_():
+## CREATE TABLE _tableName_();:
 - Creates a new table within the database in use
+
+```
+ CREATE TABLE products(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(30)
+    price DECIMAL(3,2)
+ );
+```
