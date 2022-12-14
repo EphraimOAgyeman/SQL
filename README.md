@@ -3,14 +3,14 @@ All about Sequel
 
 
 ## Data types
-* **INT**: Whole numbers
-* **FLOAT (M,D)**: Decimal numbers (approximate) ie rounding
-* **DECIMAL (M,D)**: Decimal numbers (precise) ie price
-* **CHAR (N)**: Fixed lenght Character
-* **VARCHAR (N)**: Varying lenght character
-* **ENUM ('M','F')**: Value from a defined list
-* **BOOLEAN**: True or False values
-* **DATE**: Date (YYYY-MM-DD)
-* **DATETIME**: Date and teh time (YYYY-MM-DD HH-MM-SS)
-* **TIME**: Time (HHH-MM-SS)
-* **YEAR**: Year (YYYY)
+* **INT**: _Whole numbers_
+* **FLOAT (M,D)**: _Decimal numbers (approximate) ie rounding_
+* **DECIMAL (M,D)**: _Decimal numbers (precise) ie price_
+* **CHAR (N)**: _Fixed lenght Character_
+* **VARCHAR (N)**: _Varying lenght character_
+* **ENUM ('M','F')**: _Value from a defined list_
+* **BOOLEAN**: _True or False values_
+* **DATE**: _Date (YYYY-MM-DD)_
+* **DATETIME**: _Date and the time (YYYY-MM-DD HH-MM-SS)_
+* **TIME**: _Time (HHH-MM-SS)_
+* **YEAR**: _Year (YYYY)_
