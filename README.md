@@ -18,5 +18,10 @@ All about Sequel
 
 ## Primary key and foreign key
 
-* A column which uniquely identifies a record within a table
+* A primary key is a column which uniquely identifies a record within a table
 * It cannot be null
+
+* A foreign key is a column whose values match the values of another tables primary key column
+* The table with the primary key is called the reference, or parent table 
+* The table with the foreign key is called the child table.
+* A table can have multipile foreign keys
