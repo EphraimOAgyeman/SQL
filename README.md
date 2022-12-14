@@ -46,3 +46,6 @@ All about Sequel
     price DECIMAL(3,2)
  );
 ```
+
+## SHOW TABLES;:
+- Returns a list of available tables
