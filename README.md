@@ -49,3 +49,15 @@ All about Sequel
 
 ## `SHOW TABLES;`:
 - Returns a list of available tables
+
+## Creating foreign keys:
+```
+CREATE TABLE orders(
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  product_id INT,
+  customer_id INT,
+  order_time DATETIME,
+  FOREIGN KEY (product_id) REFERENCES products(id),
+  FOREIGN KEY (customer_id) REFERENCES customers(id)
+);
+```
