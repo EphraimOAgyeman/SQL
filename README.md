@@ -14,3 +14,9 @@ All about Sequel
 * **DATETIME**: _Date and the time (YYYY-MM-DD HH-MM-SS)_
 * **TIME**: _Time (HHH-MM-SS)_
 * **YEAR**: _Year (YYYY)_
+
+
+## Primary key and foreign key
+
+* A column which uniquely identifies a record within a table
+* It cannot be null
