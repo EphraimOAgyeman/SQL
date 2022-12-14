@@ -27,16 +27,16 @@ All about Sequel
 * A table can have multipile foreign keys
 
 
-## SHOW DATABASES:
+## `SHOW DATABASES`:
 - Shows all existing databases in that database management system
 
-## CREATE DATABASE _databaseName_:
+## `CREATE DATABASE _databaseName_`:
 - This code creates a new database
 
-## USE _databaseName_:
+## `USE _databaseName_`:
 - Allows you to edit an existing database
 
-## CREATE TABLE _tableName_();:
+## `CREATE TABLE _tableName_();`:
 - Creates a new table within the database in use
 
 ```
@@ -47,5 +47,5 @@ All about Sequel
  );
 ```
 
-## SHOW TABLES;:
+## `SHOW TABLES;`:
 - Returns a list of available tables
