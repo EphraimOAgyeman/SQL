@@ -25,3 +25,10 @@ All about Sequel
 * The table with the primary key is called the reference, or parent table 
 * The table with the foreign key is called the child table.
 * A table can have multipile foreign keys
+
+
+## SHOW DATABASES:
+- Shows all existing databases in that database management system
+
+## CREATE DATABASE _databaseName_:
+- This code creates a new database
