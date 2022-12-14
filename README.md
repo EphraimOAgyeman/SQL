@@ -35,3 +35,6 @@ All about Sequel
 
 ## USE _databaseName_:
 - Allows you to edit an existing database
+
+## CREATE TABLE _tableName_():
+- Creates a new table within the database in use
