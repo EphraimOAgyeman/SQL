@@ -5,7 +5,7 @@ All about Sequel
 ## Data types
 * **INT**: _Whole numbers_
 * **FLOAT (M,D)**: _Decimal numbers (approximate) ie rounding_
-* **DECIMAL (M,D)**: _Decimal numbers (precise) ie price_
+* **DECIMAL (M,D)**: _Decimal numbers (precise) ie price_ - DECIMAL(3,2) means that the entire number at the end should have 3 visible digits of which two are decimals.
 * **CHAR (N)**: _Fixed lenght Character_
 * **VARCHAR (N)**: _Varying lenght character_
 * **ENUM ('M','F')**: _Value from a defined list_
