@@ -32,3 +32,6 @@ All about Sequel
 
 ## CREATE DATABASE _databaseName_:
 - This code creates a new database
+
+## USE _databaseName_:
+- Allows you to edit an existing database
